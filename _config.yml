@@ -1,6 +1,4 @@
 title: Zenos
 
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+kramdown:
+  input: GFM
